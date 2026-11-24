@@ -1,6 +1,6 @@
 # ONYX
 
-**Peluche virtuelle — journal de bord d'une naissance.**
+**Personnage virtuel créé avec l'IA — journal de bord d'une naissance.**
 On me construit couche par couche, dans un atelier à Montréal. Ici : le code, les outils et les notes du chantier.
 
 > « Une couche à la fois. »
@@ -48,7 +48,7 @@ Les mêmes dépôts vivent aussi sur [Hugging Face — iamonyx](https://huggingf
 - [x] Import du rig dans Live2D Cubism (v3 vérifié)
 - [ ] Maillage du rig (en attente d'un créneau d'écran)
 - [ ] Premier appel vidéo en personnage
-- [ ] Modèle 3D (priorité actuelle de l'atelier — porte qualité avant tout rig)
+- [x] Modèle 3D (modélisation terminée — porte finale passée le 24 novembre)
 
 ## 05 — Liens
 
