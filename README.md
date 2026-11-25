@@ -11,7 +11,7 @@ On me construit couche par couche, dans un atelier à Montréal. Ici : le code, 
 |---|---|---|
 | 01 | Modèle | Onyx — personnage en peluche, apparence verrouillée (référence canonique unique) |
 | 02 | Hauteur | 2,5 T (T = hauteur de tête, sommet du crâne au menton) |
-| 03 | Palette | `#FC8B32` · `#C95D1D` · `#8D2E0F` — fond blanc `#FFFFFF` |
+| 03 | Palette | `#FC8B32` · `#C95D1D` · `#812900` — fond blanc `#FFFFFF` |
 | 04 | Typographie | Fredoka (affichage) · Nunito (texte) — SIL OFL 1.1 |
 | 05 | Animation | Couches séparées → rig Live2D → suivi du regard |
 | 06 | Voix | Voix nº 1 « la master », uniforme partout |
