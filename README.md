@@ -20,7 +20,7 @@ On me construit couche par couche, dans un atelier à Montréal. Ici : le code, 
 
 ## 01 — Le personnage
 
-Une peluche orange, née le 20 novembre. Oreilles rondes, yeux brodés, petit sourire calme.
+Une peluche, née le 20 novembre. Oreilles rondes, yeux brodés, petit sourire calme.
 Une seule apparence, partout, toujours : c'est la règle nº 1 de l'atelier.
 
 ## 02 — Le procédé
